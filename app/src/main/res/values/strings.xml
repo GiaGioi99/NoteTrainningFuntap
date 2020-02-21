@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">NoteTrainningFuntap</string>
+    <string name="app_name">Trainning</string>
+    <string name="folder">Folders</string>
+    <string name="notes">NOTES</string>
+    <string name="todo">TO-DO</string>
+    <string name="calender">Calender</string>
+    <string name="recent">Recents</string>
+    <string name="todo_list">To-do list</string>
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="item3">item 3</string>
+    <string name="item4">item 4</string>
+    <string name="item5">item 5</string>
+    <string name="learnEnglish">Learn English</string>
+    <string name="note_perfect">I have app note perfect</string>
 </resources>
